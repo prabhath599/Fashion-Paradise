@@ -1,0 +1,23 @@
+.container{
+    text-align:center;
+  }
+  input{
+    width:300px;
+    height:30px;
+    padding:10px;
+    margin:20px;
+  font-size:18px;
+  border-radius:5px;
+  }
+  button:disabled{
+    padding:10px 20px;
+    font-size:18px;
+  }
+  button:enabled{
+    background-color:blue;
+    color:white;
+    border-radius:10px;
+    padding:10px 20px;
+    font-size:18px;
+  
+  }
