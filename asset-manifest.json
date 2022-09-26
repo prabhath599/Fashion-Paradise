@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fashion-Paradise/static/css/main.cbff57a7.css",
+    "main.js": "/Fashion-Paradise/static/js/main.78b7a822.js",
+    "static/js/787.60235f71.chunk.js": "/Fashion-Paradise/static/js/787.60235f71.chunk.js",
+    "index.html": "/Fashion-Paradise/index.html",
+    "main.cbff57a7.css.map": "/Fashion-Paradise/static/css/main.cbff57a7.css.map",
+    "main.78b7a822.js.map": "/Fashion-Paradise/static/js/main.78b7a822.js.map",
+    "787.60235f71.chunk.js.map": "/Fashion-Paradise/static/js/787.60235f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbff57a7.css",
+    "static/js/main.78b7a822.js"
+  ]
+}
